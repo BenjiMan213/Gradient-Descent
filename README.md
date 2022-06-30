@@ -1,2 +1,2 @@
 # Gradient-Descent
-Optimization of functions using gradient descent
+Optimization of polynomial coefficients using gradient descent for approximating functions.
